@@ -3,7 +3,7 @@ module github.com/choria-io/go-config
 go 1.12
 
 require (
-	github.com/choria-io/go-confkey v1.2.0
+	github.com/choria-io/go-confkey v1.3.0
 	github.com/choria-io/go-puppet v0.0.1
 	github.com/golang/mock v1.3.1
 	github.com/golang/protobuf v1.3.1 // indirect
